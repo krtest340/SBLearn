@@ -1,0 +1,12 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Maven / Spring Boot
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
